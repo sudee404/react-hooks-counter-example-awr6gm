@@ -1,0 +1,21 @@
+h1, p {
+  font-family: Lato;
+}
+div{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 10px;
+}
+.btn{
+  height: 28px;
+  width: 60px;
+  background-color: blue;
+  color: aliceblue;
+  border: 0ch;
+  box-shadow: inset;
+  border-radius: 3px;
+  font-size: large;
+  padding: 5px;
+  margin: 20px;
+}
